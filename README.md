@@ -10,4 +10,4 @@
 
 🏠 Check out my homepage for previous projects: [apuyou.io](https://apuyou.io)
 
-📫 Reach me on Twitter [@apuyou](https://twitter.com/apuyou) or at [arthur@puyou.fr](mailto:arthur@puyou.fr).
+📫 Reach me on Twitter [@apuyou](https://twitter.com/apuyou) or at [arthur@puyou.fr](mailto:arthur@puyou.fr)
